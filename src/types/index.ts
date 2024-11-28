@@ -1,5 +1,3 @@
-import { db } from "../data/db";
-
 export type Guitar = {
     id: number;
     name: string;
